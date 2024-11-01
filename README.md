@@ -25,3 +25,5 @@ It also supports multiple user IDs:
 {"userid1": number_of_balance1, "userid2": number_of_balance2}
 ```
 The balance save file is made of JSON.
+
+It is automatically edits when someone mines.
